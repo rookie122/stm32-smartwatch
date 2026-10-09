@@ -1,0 +1,12 @@
+{
+  "OV-Watch-main.zip": {
+    "sha256": "eaf2225b54418e107b467cc3b86d5b2ef838a9460b01b338003540a02bf5c34d",
+    "bytes": 46485479,
+    "zip_comment": "9b5806531214b50e4d039498f875b0f1b48808ed"
+  },
+  "SDL2-devel-2.30.12-VC.zip": {
+    "sha256": "1ca980f9964fb44cf94be235c9818fa1dc8e3f76b08096d751b2d689e5e37d02",
+    "bytes": 6178898,
+    "zip_comment": ""
+  }
+}
