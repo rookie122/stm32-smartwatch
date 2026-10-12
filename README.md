@@ -79,6 +79,3 @@ upstream/OV-Watch-main/
   3D Modle/                  外壳模型
 ```
 
-## 许可证
-
-本项目遵循 GPL-3.0。上游来源、固定版本和修改范围见 [UPSTREAM.md](UPSTREAM.md)，组件保留各自许可证和版权声明。
